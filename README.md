@@ -29,8 +29,9 @@ https://www.rocketseat.com.br/
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS com Twind
+- REACT
+- TWILWINDCSS
+- TYPESCRIPT
 - JavaScript
 - Git e Github
 
